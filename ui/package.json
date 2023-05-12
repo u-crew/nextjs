@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@mdx-js/loader": "^2.2.1",
-    "@next/mdx": "^13.1.5",
+    "@next/mdx": "^13.3.0",
     "@servicestack/client": "^2.0.0",
     "classnames": "2.3.2",
     "date-fns": "2.29.3",
